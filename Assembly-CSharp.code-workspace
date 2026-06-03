@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/beyond cheat source_[unknowncheats.me]_/beyond cheat source/Assembly-CSharp"
+		},
+		{
+			"path": "../projekt api"
+		},
+		{
+			"path": "../FitLife"
+		},
+		{
+			"path": "../CTAcademy_stranica"
+		},
+		{
+			"path": "../Country Explorer"
+		}
+	],
+	"settings": {
+		"dotnet.preferCSharpExtension": true
+	}
+}
